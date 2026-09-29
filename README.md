@@ -4,12 +4,13 @@ I'm a college student looking for analyst roles: data, business, and financial. 
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/edward-tynes-9140772a8/)
 
-**Tools I use:** Excel (formulas, XLOOKUP, PivotTables, financial statements and ratio analysis) and Tableau (calculated fields, forecasting, dashboards)
+**Tools I use:** SQL (CTEs, window functions, joins), Excel (formulas, XLOOKUP, PivotTables, financial statements and ratio analysis) and Tableau (calculated fields, forecasting, dashboards)
 
 ## Projects
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [Online Retail Sales Analysis](https://github.com/edwardt93/online-retail-sql-analysis) | Cleaned 1 million+ transactions in SQL and found sales trends, top customer segments, and retention patterns | SQL |
 | [Bank Marketing Campaign Analysis](https://github.com/edwardt93/bank-marketing-campaign-analysis) | Cleaned 41,000+ customer records and found which customers were most likely to sign up | Excel, Tableau |
 | [Apple Financial Statement and Ratio Analysis](https://github.com/edwardt93/apple-financial-ratio-analysis) | Three years of Apple's statements turned into ratios and compared with Microsoft and HP | Excel |
 | [NVIDIA Strategic Position Analysis](https://github.com/edwardt93/nvidia-strategic-analysis) | IFE, EFE, and IE Matrix scoring to decide NVIDIA's best strategy | Excel |
